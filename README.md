@@ -3,6 +3,8 @@
 ## How to use it ?
 
 ### Copy the project
+  - You can copy this repo as a templete directlty from GitHub
+  - After copying the repo, you can rename you Docker container to make them more relevant based on your project
 
 ### Run the project
 
