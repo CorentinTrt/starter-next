@@ -2,7 +2,7 @@
 import s from './section.module.scss';
 
 const Section = () => {
-  return <div className={s['section']}></div>;
+	return <div className={s['section']}></div>;
 };
 
 export default Section;

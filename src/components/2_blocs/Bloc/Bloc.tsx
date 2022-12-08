@@ -2,7 +2,7 @@
 import s from './bloc.module.scss';
 
 const Bloc = () => {
-  return <div className={s['bloc']}></div>;
+	return <div className={s['bloc']}></div>;
 };
 
 export default Bloc;
