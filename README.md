@@ -1,4 +1,4 @@
-# starter-next.js \_v1.0.0
+# starter-next.js \_v1.0.1
 
 ## How to use it ?
 
