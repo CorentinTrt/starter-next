@@ -1,4 +1,4 @@
-# starter-next.js \_v1.0.1
+# starter-next.js \_v1.0.2
 
 ## How to use it ?
 
@@ -20,6 +20,7 @@
 #### Production
 
 - `$ yarn docker-prod`
+  -> That will create a standalone build runnable through Docker
 
 ## Linting & formating
 
